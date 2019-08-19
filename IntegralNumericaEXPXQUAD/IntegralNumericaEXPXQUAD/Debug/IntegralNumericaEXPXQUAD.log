@@ -1,0 +1,3 @@
+﻿  IntegralNumericaEXPXQUAD.cpp
+C:\Users\1545 IRON V4\source\repos\IntegralNumericaEXPXQUAD\IntegralNumericaEXPXQUAD\IntegralNumericaEXPXQUAD.cpp(71,25): warning C4305:  'inicializando': truncamento de 'double' para 'float'
+  IntegralNumericaEXPXQUAD.vcxproj -> C:\Users\1545 IRON V4\source\repos\IntegralNumericaEXPXQUAD\Debug\IntegralNumericaEXPXQUAD.exe
